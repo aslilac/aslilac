@@ -1,7 +1,8 @@
 ## Hi! 🌷
 
-Just a trans femme dog girl that likes to build things on its computer. I like using TypeScript, React, Rust, and WebAssembly. Always trying to learn new tricks and
-help teach them to others. 🐶
+Just a trans femme dog girl that likes to build things on its computer.  
+I like using TypeScript, React, Rust, and WebAssembly.  
+Always trying to learn new tricks and help teach them to others. 🐶
 
 ### Work
 
