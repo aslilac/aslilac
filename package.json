@@ -1,0 +1,10 @@
+{
+	"private": true,
+	"devDependencies": {
+		"@mckayla/prettier": "^0.8.90",
+		"prettier": "^2.2.1"
+	},
+	"scripts": {
+		"fmt": "yarn prettier --write ."
+	}
+}
