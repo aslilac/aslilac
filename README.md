@@ -1,13 +1,11 @@
 ## Hi! 🌷
 
-Just a trans femme person that likes to build things.  
-I like using TypeScript, React, Rust, and WebAssembly.  
-Always trying to learn new tricks and help teach them to others. 🐶
+Always trying to learn new tricks. 🐶
 
-### Work
+### Projects
 
--   Software Engineer at [Facet][work]
-<!-- -   Founder at [Dough][dough] -->
+-   (almost) Senior Engineer at [Facet][facet]
+-   Building [Dough][dough]
 
 ### Academics
 
@@ -15,5 +13,5 @@ Always trying to learn new tricks and help teach them to others. 🐶
 -   A.S. History and Political Science at [UVU][uvu]
 
 [uvu]: https://uvu.edu "Utah Valley University"
-[work]: https://facet.ai "Facet"
+[facet]: https://facet.ai "Facet"
 [dough]: https://dough.fi "Dough"
