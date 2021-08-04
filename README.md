@@ -6,7 +6,7 @@ Always trying to learn new tricks. 🐶
 
 -   (almost) Senior Engineer at [Facet][facet]
 -   Kneading [Dough][dough]
--   Developing [Negative][negative]s
+-   Developing [Negative][negative]
 
 ### Academics
 
