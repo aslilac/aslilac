@@ -5,7 +5,8 @@ Always trying to learn new tricks. 🐶
 ### Projects
 
 -   (almost) Senior Engineer at [Facet][facet]
--   Building [Dough][dough]
+-   Kneading [Dough][dough]
+-   Devloping [Negative][negative]s
 
 ### Academics
 
@@ -15,3 +16,4 @@ Always trying to learn new tricks. 🐶
 [uvu]: https://uvu.edu "Utah Valley University"
 [facet]: https://facet.ai "Facet"
 [dough]: https://dough.fi "Dough"
+[negative]: https://negative.ooo "Negative"
