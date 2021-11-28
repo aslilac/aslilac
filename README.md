@@ -1,12 +1,10 @@
-## Hi! 🌷
+## Hello! 🌿
 
 Always trying to learn new tricks. 🐶
 
 ### Projects
 
 -   (almost) Senior Engineer at [Facet][facet]
--   Kneading [Dough][dough]
--   Developing [Negative][negative]
 
 ### Academics
 
@@ -15,5 +13,3 @@ Always trying to learn new tricks. 🐶
 
 [uvu]: https://uvu.edu "Utah Valley University"
 [facet]: https://facet.ai "Facet"
-[dough]: https://dough.fi "Dough"
-[negative]: https://negative.ooo "Negative"
