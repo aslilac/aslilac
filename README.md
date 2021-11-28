@@ -2,6 +2,10 @@
 
 Always trying to learn new tricks. 🐶
 
+```typescript
+as lilac
+```
+
 ### Projects
 
 -   (almost) Senior Engineer at [Facet][facet]
