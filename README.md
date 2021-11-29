@@ -3,7 +3,7 @@
 Always trying to learn new tricks. 🐶
 
 ```typescript
-{} as lilac
+{} as Lilac
 ```
 
 ### Projects
