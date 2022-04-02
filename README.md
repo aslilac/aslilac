@@ -1,5 +1,7 @@
 ## Hello! 🌿
 
+![banner image](/BANNER.png)
+
 Always trying to learn new tricks. 🐶
 
 ```typescript
