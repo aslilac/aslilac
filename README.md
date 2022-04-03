@@ -1,4 +1,9 @@
-![banner image](/BANNER.png)
+<picture>
+	<source srcset="/media/BANNER.avif" type="image/avif" />
+	<source srcset="/media/BANNER.webp" type="image/webp" />
+	<source srcset="/media/BANNER.jpeg" type="image/jpeg" />
+	<img src="/media/BANNER.png" alt="banner image" />
+</picture>
 
 ## Always trying to learn new tricks. 🐶
 
