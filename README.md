@@ -1,9 +1,4 @@
-<picture>
-	<source srcset="/media/BANNER.avif" type="image/avif" />
-	<source srcset="/media/BANNER.webp" type="image/webp" />
-	<source srcset="/media/BANNER.jpeg" type="image/jpeg" />
-	<img src="/media/BANNER.png" alt="banner image" />
-</picture>
+![banner image](/media/BANNER.webp)
 
 ## Always trying to learn new tricks. 🐶
 
