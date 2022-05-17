@@ -2,7 +2,7 @@
 
 Always trying to learn new tricks. 🐶
 
-### Projects
+### Experience
 
 -   [Deno] Core Team
 -   Software Engineer at [Facet]
