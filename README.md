@@ -4,20 +4,16 @@ Always trying to learn new tricks. 🐶
 
 ### Experience
 
--   [Deno] Core Team
--   Previously a Software Engineer at [Facet]
+I'm currently on the [Deno] Core Team. I was previously a Software Engineer at [Facet].
 
 ### Academics
 
--   B.S. Computer Science and Networking at [UVU]
--   A.S. History and Political Science at [UVU]
+I have a Bachelor's in Computer Science and Networking, as well an Associate's in History
+and Political Science.
 
 ### Open Source
 
-I like to contribute when I have time :)
-
--   [gleam-lang/gleam](https://github.com/gleam-lang/gleam)
--   [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+I like to contribute to [Gleam] and [Homebrew] when I have time :)
 
 <!-- -   [containers/podman](https://github.com/containers/podman) -->
 <!-- -   [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) -->
@@ -25,4 +21,5 @@ I like to contribute when I have time :)
 
 [deno]: https://github.com/denoland "Deno"
 [facet]: https://facet.ai "Facet"
-[uvu]: https://uvu.edu "Utah Valley University"
+[gleam]: https://github.com/gleam-lang/gleam "Gleam"
+[homebrew]: https://github.com/Homebrew/homebrew-core "Homebrew"
